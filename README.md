@@ -1,8 +1,16 @@
-hello-world
-===========
+HelloScala
+==========
 
-HelloWorld.java
+Hello World Spring Boot Scala Web App
 
-Hi I am Mallika.
 
-I am a student of SJSU like the colour blue
+How to run
+==========
+
+```sh
+gradle build
+gradle bootRun
+```
+
+
+
